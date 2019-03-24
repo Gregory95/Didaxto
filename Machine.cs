@@ -1,6 +1,6 @@
 ﻿using System;
 using Didaxto.DidaxtoParts;
-
+// MAIN
 namespace Didaxto.DidaxtoParts
 {
     class Machine:Didaxto
